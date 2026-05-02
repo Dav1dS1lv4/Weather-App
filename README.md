@@ -28,7 +28,7 @@ npm run dev
 Vite will start a local server and show a link like:
 
 ```
-http://localhost:5173/
+http://localhost:/
 ```
 
 Open it in your browser to view the app.
